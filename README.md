@@ -24,7 +24,7 @@ https://github.com/ops-org/ops-comite/blob/master/CONTRIBUICAO.md
 
 
 
-## Fale Conosco
+# Fale Conosco
 * [Homepage](https://projetonovoeleitor.com.br) - Homepage do Projeto
 * [Facebook](https://www.facebook.com/operacaopoliticasupervisionada) - Pagina no Facebook
 * [Blog](http://luciobig.com.br) - Blog do Lúcio
@@ -32,7 +32,7 @@ https://github.com/ops-org/ops-comite/blob/master/CONTRIBUICAO.md
 * suporte@ops.net.br - Contato técnico
 
 
-## Canais do Projeto
+# Canais do Projeto
 
 [Trello - Atividades do Projeto ](https://trello.com/novoeleitor)
 
