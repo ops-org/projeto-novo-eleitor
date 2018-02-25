@@ -14,11 +14,15 @@ Nossa proposta baseia-se em dois pilares:
 A **Operação Política Supervisionada** conta com a ajuda de seus colaboradores e/ou voluntários, espalhados pelo Brasil. Qualquer pessoa pode contribuir não só com a equipe de desenvolvimento, mas também precisamos de editores, designers, advogados, pesquisadores, divulgadores, ações de marketing, dentre outros que possam colaborar com os objetivos do projeto.
 Solicite o ingresso na equipe enviando seu contato para os membros do grupo ou procurar o próprio *Lúcio BIG* através da sua [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou do [site do Lúcio big](http://www.luciobig.com.br/). 
 
+
+
 ## Orientações para os desenvolvedores
 
 Qualquer pessoa pode contribuir com os projetos da OPS, todos eles são públicos e de código aberto. Se você deseja ajudar, siga o processo descrito no link abaixo.
 
 https://github.com/ops-org/ops-comite/blob/master/CONTRIBUICAO.md
+
+
 
 ## Fale Conosco
 * [Homepage](https://projetonovoeleitor.com.br) - Homepage do Projeto
@@ -27,11 +31,16 @@ https://github.com/ops-org/ops-comite/blob/master/CONTRIBUICAO.md
 * luciobig@ops.net.br - Contato principal
 * suporte@ops.net.br - Contato técnico
 
+
 ## Canais do Projeto
 
 [Trello - Atividades do Projeto ](https://trello.com/novoeleitor)
+
 [Telegram - Comunicador  ](https://web.telegram.org)
+
 [Protótipo - Oracle Apex (Descontinuado)](https://apex.oracle.com/pls/apex/f?p=551361)
+
+
 
 ## Iniciativa
 **Operação Política Supervisionada**
