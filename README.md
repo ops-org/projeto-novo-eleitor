@@ -14,7 +14,7 @@ Nossa proposta baseia-se em dois pilares:
 A **Operação Política Supervisionada** conta com a ajuda de seus colaboradores e/ou voluntários, espalhados pelo Brasil. Qualquer pessoa pode contribuir não só com a equipe de desenvolvimento, mas também precisamos de editores, designers, advogados, pesquisadores, divulgadores, ações de marketing, dentre outros que possam colaborar com os objetivos do projeto.
 Solicite o ingresso na equipe enviando seu contato para os membros do grupo ou procurar o próprio *Lúcio BIG* através da sua [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou do [site do Lúcio big](http://www.luciobig.com.br/). 
 
-#Orientações para os desenvolvedores
+# Orientações para os desenvolvedores
 
 Qualquer pessoa pode contribuir com os projetos da OPS, todos eles são públicos e de código aberto. Se você deseja ajudar, siga o processo descrito no link abaixo.
 
