@@ -28,6 +28,7 @@ https://github.com/ops-org/ops-comite/blob/master/CONTRIBUICAO.md
 * suporte@ops.net.br - Contato técnico
 
 
-## Operação Política Supervisionada
+## Iniciativa
+**Operação Política Supervisionada**
 ![Operação Política Supervisionada](https://github.com/ops-org/operacao-politica-supervisionada/blob/master/OPS/Content/images/logo_grande.png?raw=true)
 * [http://ops.net.br](http://ops.net.br)
