@@ -6,8 +6,9 @@ Os nomes das antigas equipes serão ajustadas a raiz do repositório, e cada equ
 
 **Nome da Equipe  »  Diretório em /projeto-novo-eleitor**
 
-## Arte e Design » /arte-e-design
+## Planejamento do Sistema » /plano-sistema
 ## Administração de dados » /adm-dados
+## Arte e Design » /arte-e-design
 ## Desenv Banco Dados Access » /desenv-db-access
 ## Desenv Banco Dados MySQL » /desenv-db-mysql
 ## Desenv App iOS » /desenv-app-ios
