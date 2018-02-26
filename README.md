@@ -22,6 +22,9 @@ Qualquer pessoa pode contribuir com os projetos da OPS, todos eles são público
 
 https://github.com/ops-org/ops-comite/blob/master/CONTRIBUICAO.md
 
+** Equipes e estruturas de pastas do projeto **
+https://github.com/ops-org/projeto-novo-eleitor/Estrutura-de-Pastas.md
+
 
 
 # Fale Conosco
