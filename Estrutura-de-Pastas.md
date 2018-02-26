@@ -14,4 +14,4 @@ Os nomes das antigas equipes serão ajustadas a raiz do repositório, e cada equ
 ## Desenv Banco Dados MySQL » /desenv-db-mysql
 ## Desenv App iOS » /desenv-app-ios
 ## Desenv App Android » /desenv-app-android
-## Desenv Siste ASP » /desenv-site-asp
+## Desenv Site ASP » /desenv-site-asp
