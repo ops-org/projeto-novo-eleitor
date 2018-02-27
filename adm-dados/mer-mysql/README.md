@@ -1,8 +1,8 @@
-# Softwares e ferramentas utilizados
+# (Instruções) Softwares e ferramentas utilizados 
 ## Computador com Windows - 32bits
 Setup (mysql-installer-web-community-8.0.3.0-rc.msi)
 
-**Pacotes instaldos**
+**Pacotes mínimos a instalar**
 
 MySQL Workbench 6.2.5
 
