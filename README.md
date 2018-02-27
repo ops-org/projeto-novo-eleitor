@@ -27,6 +27,15 @@ https://github.com/ops-org/ops-comite/blob/master/CONTRIBUICAO.md
 https://github.com/ops-org/projeto-novo-eleitor/blob/master/Estrutura-de-Pastas.md
 
 
+# Canais do Projeto
+
+[Telegram - Grupo de mensagens Projeto Novo Eleitor](https://web.telegram.org)
+
+[Trello - Atividades do Projeto (Desecontinuado) ](https://trello.com/novoeleitor)
+
+[Protótipo - Oracle Apex (Descontinuado)](https://apex.oracle.com/pls/apex/f?p=551361)
+
+
 
 # Fale Conosco
 * [Homepage](https://projetonovoeleitor.com.br) - Homepage do Projeto
@@ -34,16 +43,6 @@ https://github.com/ops-org/projeto-novo-eleitor/blob/master/Estrutura-de-Pastas.
 * [Blog](http://luciobig.com.br) - Blog do Lúcio
 * luciobig@ops.net.br - Contato principal
 * suporte@ops.net.br - Contato técnico
-
-
-# Canais do Projeto
-
-[Trello - Atividades do Projeto ](https://trello.com/novoeleitor)
-
-[Telegram - Comunicador  ](https://web.telegram.org)
-
-[Protótipo - Oracle Apex (Descontinuado)](https://apex.oracle.com/pls/apex/f?p=551361)
-
 
 
 ##### Iniciativa
