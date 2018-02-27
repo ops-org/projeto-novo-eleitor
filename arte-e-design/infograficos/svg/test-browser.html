@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+<style>
+   body {
+    background: #b4ddb4; /* IE antigo demais pra nos preocuparmos */
+    background: -moz-linear-gradient(top, #b4ddb4 0%, #83c783 17%, #52b152 33%, #008a00 67%, #005700 83%, #002400 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4ddb4', endColorstr='#002400',GradientType=0 ); /* IE6-9 */
+   }
+</style>
+</head>
+ <body>
+  <div id="browser-version"></div>
+<table style="height: 301px; width: 418px;" border="5">
+<tbody>
+<tr>
+<td style="width: 130px;" rowspan="3">{3}</td>
+<td style="width: 80px;" colspan="2">{7}</td>
+<td style="width: 148.65px;">{6}</td>
+</tr>
+<tr>
+<td style="width: 80px;" colspan="3">{5}</td>
+</tr>
+<tr>
+<td style="width: 80px;">{4}</td>
+<td style="width: 31.35px;" colspan="2">GR&Aacute;FICO</td>
+</tr>
+<tr>
+<td style="width: 130px;" colspan="4">INDICADORES</td>
+</tr>
+<tr>
+<td style="width: 130px;" colspan="4">COMO GASTA</td>
+</tr>
+<tr>
+<td style="width: 130px;" colspan="4">UTILIZA&Ccedil;&Atilde;O</td>
+</tr>
+<tr>
+<td style="width: 130px;" colspan="4">WWW.PROJETONOVOELEITOR.COM.BR</td>
+</tr>
+<tr>
+<td style="width: 130px;">&nbsp;</td>
+<td style="width: 80px;" colspan="2">&nbsp;</td>
+<td style="width: 148.65px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+navigator.sayswho= (function(){
+    var ua= navigator.userAgent, tem, 
+    M= ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+    if(/trident/i.test(M[1])){
+        tem=  /\brv[ :]+(\d+)/g.exec(ua) || [];
+        return 'IE '+(tem[1] || '');
+    }
+    if(M[1]=== 'Chrome'){
+        tem= ua.match(/\b(OPR|Edge)\/(\d+)/);
+        if(tem!= null) return tem.slice(1).join(' ').replace('OPR', 'Opera');
+    }
+    M= M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
+    if((tem= ua.match(/version\/(\d+)/i))!= null) M.splice(1, 1, tem[1]);
+    return M.join(' ');
+})();
+  document.getElementById('browser-version').innerText = navigator.sayswho;
+</script>
+  </body>
+</html>
