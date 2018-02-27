@@ -16,15 +16,15 @@ A **Operação Política Supervisionada** conta com a ajuda de seus colaboradore
 Solicite o ingresso na equipe enviando seu contato para os membros do grupo ou procurar o próprio *Lúcio BIG* através da sua [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou do [site do Lúcio big](http://www.luciobig.com.br/). 
 
 ## Veja nos quadros de atividades das equipes o que se tem para fazer, sua ajuda será muito bem vinda!
-Administração de dados » https://github.com/ops-org/projeto-novo-eleitor/projects/4
+[Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4) - 
 
-Arte e Design » https://github.com/ops-org/projeto-novo-eleitor/projects/1
+[Arte e Design](https://github.com/ops-org/projeto-novo-eleitor/projects/1) /arte-e-design
 
-Desenv Banco Dados Access » https://github.com/ops-org/projeto-novo-eleitor/projects/6
+[Desenv Banco Dados Access](https://github.com/ops-org/projeto-novo-eleitor/projects/6) -
 
-Desenv Site ASP » https://github.com/ops-org/projeto-novo-eleitor/projects/7 
+[Desenv Site ASP](https://github.com/ops-org/projeto-novo-eleitor/projects/7) -
 
-Planejamento do Sistema » https://github.com/ops-org/projeto-novo-eleitor/projects/3
+[Planejamento do Sistema](https://github.com/ops-org/projeto-novo-eleitor/projects/3) -
 
 
 ## Orientações para os desenvolvedores
