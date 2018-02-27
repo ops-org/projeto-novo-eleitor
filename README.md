@@ -10,11 +10,17 @@ Nossa proposta baseia-se em dois pilares:
 1) Publicação e divulgação do Manifesto do Novo Eleitor, semelhante a um guia de boas práticas, isento de interferências políticas/econômicas ou doutrinas ideológicas/partidárias, esclarecendo ao eleitor como não desperdiçar sua chance de votar corretamente;
 
 2) Elaboração de um sistema informatizado integrado e interativo, de alcance nacional, como ferramenta auxiliar para que os eleitores possam comparar e compartilhar os perfis de candidatos e de forma rápida e descomplicada, a fim de formarem sua própria opinião política, tanto para assuntos municipais, estaduais, federais e nacionais. Informações estas baseadas na coleta de dados oficiais sobre atuação pública de cada parlamentar e dos partidos políticos nos quais pertencem, como por exemplo votações de interesse nacional, estadual, municipal e demais históricos relevantes sobre suas realizações políticas.
+
 # Quem pode contribuir?
 A **Operação Política Supervisionada** conta com a ajuda de seus colaboradores e/ou voluntários, espalhados pelo Brasil. Qualquer pessoa pode contribuir não só com a equipe de desenvolvimento, mas também precisamos de editores, designers, advogados, pesquisadores, divulgadores, ações de marketing, dentre outros que possam colaborar com os objetivos do projeto.
 Solicite o ingresso na equipe enviando seu contato para os membros do grupo ou procurar o próprio *Lúcio BIG* através da sua [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou do [site do Lúcio big](http://www.luciobig.com.br/). 
 
-
+## Veja nos quadros de atividades das equipes o que se tem para fazer, sua ajuda será muito bem vinda!
+Administração de dados » https://github.com/ops-org/projeto-novo-eleitor/projects/4
+Arte e Design » https://github.com/ops-org/projeto-novo-eleitor/projects/1
+Desenv Banco Dados Access » https://github.com/ops-org/projeto-novo-eleitor/projects/6
+Desenv Site ASP » https://github.com/ops-org/projeto-novo-eleitor/projects/7 
+Planejamento do Sistema » https://github.com/ops-org/projeto-novo-eleitor/projects/3
 
 ## Orientações para os desenvolvedores
 
