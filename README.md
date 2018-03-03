@@ -19,7 +19,7 @@ Solicite o ingresso na equipe enviando seu contato para os membros do grupo ou p
 ## Visão Geral das soluções utilizadas no momento
 ![plataforma inicial](https://github.com/ops-org/projeto-novo-eleitor/blob/master/plano-sistema/plataforma.png)
 
-## O que se tem para fazer nos quadros de atividades das equipes
+## Fique por dentro dos quadros de atividades das equipes será otimo sua participação em alguma atividade!
 [Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4)
 
 [Arte e Design](https://github.com/ops-org/projeto-novo-eleitor/projects/1)
