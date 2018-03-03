@@ -1,3 +1,4 @@
 # Referêcnias para comparativos, considerar formato para o plug-in
 
-![TT](exemplo_comparativo-1.jpeg)
+![](exemplo_comparativo.jpeg)
+![](exemplo_comparativo-1.jpeg)
