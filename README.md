@@ -16,6 +16,9 @@ A **Operação Política Supervisionada** conta com a ajuda de seus colaboradore
 Visite os quadros de atividades das equipes e veja onde pode ajudar.
 Solicite o ingresso na equipe enviando seu contato para os membros do grupo ou procurar o próprio *Lúcio BIG* através da sua [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou do [site do Lúcio big](http://www.luciobig.com.br/). 
 
+## Estas são nossas plataformas de operação iniciais
+![plataforma inicial]((https://github.com/ops-org/projeto-novo-eleitor/plano-sistema/plataforma.png)
+
 ## O que se tem para fazer nos quadros de atividades das equipes
 [Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4)
 
