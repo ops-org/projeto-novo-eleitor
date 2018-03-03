@@ -1,3 +1,3 @@
-![Modelo](projeto-novo-eleitor/desenv-db-access/img-forms/estados-brasileiros.png)
+https://github.com/ops-org/projeto-novo-eleitor/blob/master/desenv-db-access/img-forms/estados-brasileiros.png
  
-(projeto-novo-eleitor/desenv-db-access/img-forms/partido-politico.png)
+https://github.com/ops-org/projeto-novo-eleitor/blob/master/desenv-db-access/img-forms/partido-politico.png
