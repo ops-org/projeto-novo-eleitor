@@ -5,7 +5,7 @@
 ![PHP](https://img.shields.io/badge/language-ASP.MVC-green.svg)
 ![MySQL](https://img.shields.io/badge/DB-MySQL-lightgrey.svg)
 
-O Projeto Novo Eleitor é iniciativa da Operação Política Supervisionada (OPS), organização civil sem fins econômicos ou lucrativos, sem conotação político-partidária, que tem por finalidade promover a conscientização dos eleitores para a real renovação política a partir das Eleições de 2018.
+O Projeto Novo Eleitor é uma iniciativa da Operação Política Supervisionada (OPS), organização civil sem fins econômicos ou lucrativos, sem conotação político-partidária, que tem por finalidade promover a conscientização dos eleitores para a real renovação política a partir das Eleições de 2018.
 Nossa proposta baseia-se em dois pilares:
 1) Publicação e divulgação do Manifesto do Novo Eleitor, semelhante a um guia de boas práticas, isento de interferências políticas/econômicas ou doutrinas ideológicas/partidárias, esclarecendo ao eleitor como não desperdiçar sua chance de votar corretamente;
 
@@ -16,10 +16,7 @@ A **Operação Política Supervisionada** conta com a ajuda de seus colaboradore
 Visite os quadros de atividades das equipes e veja onde pode ajudar.
 Solicite o ingresso na equipe enviando seu contato para os membros do grupo ou procurar o próprio *Lúcio BIG* através da sua [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou do [site do Lúcio big](http://www.luciobig.com.br/). 
 
-## Visão Geral das soluções utilizadas no momento
-![plataforma inicial](https://github.com/ops-org/projeto-novo-eleitor/blob/master/plano-sistema/plataforma.png)
-
-## Fique por dentro dos quadros de atividades das equipes será otimo sua participação em alguma atividade!
+## O que se tem para fazer nos quadros de atividades das equipes
 [Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4)
 
 [Arte e Design](https://github.com/ops-org/projeto-novo-eleitor/projects/1)
