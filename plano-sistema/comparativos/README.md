@@ -1,4 +1,4 @@
-# Referêcnias para comparativos, considerar formato para o plug-in
+# Referêcnias para comparativos, considerar formato para o plug-in (gameficação)
 
 ![ex1](exemplo_comparativo.jpg)
 
