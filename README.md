@@ -14,6 +14,10 @@ Nossa proposta baseia-se em dois pilares:
 # Quem pode contribuir?
 A **Operação Política Supervisionada** conta com a ajuda de seus colaboradores e/ou voluntários, espalhados pelo Brasil. Qualquer pessoa pode contribuir não só com a equipe de desenvolvimento, mas também em atividades de diagramação/designer, revisores, pesquisadores, advogados, divulgadores, ações de promoção e divulgação desta iniciativa, dentre outros que possam colaborar com os objetivos do projeto.
 
+Qualquer pessoa pode contribuir com os projetos da OPS, todos eles são públicos e de código aberto. Se você deseja ajudar, siga o processo descrito no link abaixo.
+https://github.com/ops-org/ops-comite/blob/master/CONTRIBUICAO.md
+
+
 # Como contribuir?
 Primeiro é necessário possuir uma conta (gratuita) no Github que é o serviço que "hospeda" os arquivos Projeto Novo Eleitor.
 - A partir de uma conta no Github você já pode  participar com comentários e sugestões em nossa lista de demandas e assuntos do projeto. Dê uma olhada nestes itens que também são chamados de [Issues](https://github.com/ops-org/projeto-novo-eleitor/issues) , veja também [os quadros de atividades](#quadros-de-atividades-do-projeto).
@@ -31,15 +35,6 @@ Quadro | Pasta/Diretório
 [Desenvolvimento Banco Dados Access](https://github.com/ops-org/projeto-novo-eleitor/projects/6) | [desenv-db-access](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-db-access)
 [Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4) | [adm-dados](https://github.com/ops-org/projeto-novo-eleitor/tree/master/adm-dados)
 [Planejamento do Sistema](https://github.com/ops-org/projeto-novo-eleitor/projects/3) | [plano-sistema](https://github.com/ops-org/projeto-novo-eleitor/tree/master/plano-sistema) 
-
-## Orientações para os desenvolvedores
-Qualquer pessoa pode contribuir com os projetos da OPS, todos eles são públicos e de código aberto. Se você deseja ajudar, siga o processo descrito no link abaixo.
-
-https://github.com/ops-org/ops-comite/blob/master/CONTRIBUICAO.md
-
-**Equipes e estruturas de pastas do projeto**
-https://github.com/ops-org/projeto-novo-eleitor/blob/master/Estrutura-de-Pastas.md
-
 
 # Canais do Projeto
 
