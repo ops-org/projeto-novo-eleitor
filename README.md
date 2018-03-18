@@ -23,7 +23,7 @@ Utilize Github Desktop (Windows/Mac) para baixar "clonar" o projeto novo eleitor
 
 
 ## Veja o que há para fazer nos quadros de atividades do projeto
-[Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4)
+[Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4){:target="_blank"}
 
 [Arte e Design](https://github.com/ops-org/projeto-novo-eleitor/projects/1)
 
