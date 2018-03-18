@@ -1,4 +1,4 @@
-![PNE](projeto-novo-eleitor/arte-e-design/imagens/pne/pne-logo-168x168.png)
+![PNE](https://raw.githubusercontent.com/ops-org/projeto-novo-eleitor/master/arte-e-design/imagens/pne/pne-logo-168x168.png)
 ## Projeto Novo Eleitor
 
 ![APATCHE](https://img.shields.io/crates/l/rustc-serialize.svg)
