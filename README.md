@@ -16,12 +16,9 @@ A **Operação Política Supervisionada** conta com a ajuda de seus colaboradore
 
 # Como contribuir?
 Primeiro é necessário possuir uma conta (gratuita) no Github que é o serviço que "hospeda" os arquivos Projeto Novo Eleitor.
-- A partir de uma conta no Github você já pode  participar com comentários e sugestões em nossa lista de demandas e assuntos do projeto. Dê uma olhada nestes itens que também são chamados de [Issues](https://github.com/ops-org/projeto-novo-eleitor/issues) , veja também [os quadros de atividades](# Quadros de atividades do projeto).
+- A partir de uma conta no Github você já pode  participar com comentários e sugestões em nossa lista de demandas e assuntos do projeto. Dê uma olhada nestes itens que também são chamados de [Issues](https://github.com/ops-org/projeto-novo-eleitor/issues) , veja também [os quadros de atividades](#quadros-de-atividades-do-projeto).
 
-- Já está familiarizado com atividades no github? Possui habilidades em desenvolvimento, diagramação, operações com banco de dados, revisões textuais e em dados? Solicite para participar como membro do projeto ao *Lúcio BIG* através da [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou via e-mail luciobig@ops.net.br
-
-## Veja as demandas "Issues" do projeto e particie com comentários e sujestões
-[Demandas e Assuntos do Projeto]
+- Já está familiarizado com atividades no github? Possui habilidades em desenvolvimento, diagramação, operações com banco de dados, revisões textuais e análise de dados? Solicite sua participação como membro do projeto para o *Lúcio BIG* através da [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou via e-mail luciobig@ops.net.br
 
 # Quadros de atividades do projeto
 [Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4)
@@ -60,5 +57,3 @@ https://github.com/ops-org/projeto-novo-eleitor/blob/master/Estrutura-de-Pastas.
 * [OPS no Facebook](https://www.facebook.com/operacaopoliticasupervisionada)
 * [Blog do Lúcio Big](http://luciobig.com.br)
 * Contato luciobig@ops.net.br 
-
-
