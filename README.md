@@ -1,8 +1,8 @@
-![PNE](https://projetonovoeleitor.files.wordpress.com/2018/01/cropped-logo-novo-eleitor2.png)
+﻿![PNE](https://projetonovoeleitor.files.wordpress.com/2018/01/cropped-logo-novo-eleitor2.png)
 ## Projeto Novo Eleitor
 
-[![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg?maxAge=2592000)]()
-![PHP](https://img.shields.io/badge/language-ASP.MVC-green.svg)
+![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg)
+![ASP](https://img.shields.io/badge/language-ASP.MVC-green.svg)
 ![MySQL](https://img.shields.io/badge/DB-MySQL-lightgrey.svg)
 
 O Projeto Novo Eleitor é uma iniciativa da Operação Política Supervisionada (OPS), organização civil sem fins econômicos ou lucrativos, sem conotação político-partidária, que tem por finalidade promover a conscientização dos eleitores para a real renovação política a partir das Eleições de 2018.
@@ -12,11 +12,17 @@ Nossa proposta baseia-se em dois pilares:
 2) Elaboração de um sistema informatizado integrado e interativo, de alcance nacional, como ferramenta auxiliar para que os eleitores possam comparar e compartilhar os perfis de candidatos e de forma rápida e descomplicada, a fim de formarem sua própria opinião política, tanto para assuntos municipais, estaduais, federais e nacionais. Informações estas baseadas na coleta de dados oficiais sobre atuação pública de cada parlamentar e dos partidos políticos nos quais pertencem, como por exemplo votações de interesse nacional, estadual, municipal e demais históricos relevantes sobre suas realizações políticas.
 
 # Quem pode contribuir?
-A **Operação Política Supervisionada** conta com a ajuda de seus colaboradores e/ou voluntários, espalhados pelo Brasil. Qualquer pessoa pode contribuir não só com a equipe de desenvolvimento, mas também precisamos de editores, revisores, designers, advogados, pesquisadores, divulgadores, promoções de marketing, dentre outros que possam colaborar com os objetivos do projeto.
+A **Operação Política Supervisionada** conta com a ajuda de seus colaboradores e/ou voluntários, espalhados pelo Brasil. Qualquer pessoa pode contribuir não só com a equipe de desenvolvimento, mas também em atividades de diagramação/designer, revisores, pesquisadores, advogados, divulgadores, ações de promoção e divulgação desta iniciativa, dentre outros que possam colaborar com os objetivos do projeto.
+
 Visite os quadros de atividades das equipes e veja onde pode ajudar.
 Solicite o ingresso na equipe enviando seu contato para os membros do grupo ou procurar o próprio *Lúcio BIG* através da sua [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou do [site do Lúcio big](http://www.luciobig.com.br/). 
 
-## O que se tem para fazer nos quadros de atividades das equipes
+# Como contribuir?
+Utilize Github Desktop (Windows/Mac) para baixar "clonar" o projeto novo eleitor  em computador, faça suas contribuições e as envie pela forma de  
+[texto/passos em elaboração]
+
+
+## Veja o que há para fazer nos quadros de atividades do projeto
 [Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4)
 
 [Arte e Design](https://github.com/ops-org/projeto-novo-eleitor/projects/1)
@@ -43,20 +49,17 @@ https://github.com/ops-org/projeto-novo-eleitor/blob/master/Estrutura-de-Pastas.
 
 [Telegram - Grupo de mensagens Projeto Novo Eleitor](https://web.telegram.org)
 
-[Trello - Atividades do Projeto (Desecontinuado) ](https://trello.com/novoeleitor)
+[Banco de dados Auxiliar/Protótipo em Oracle Apex](https://apex.oracle.com/pls/apex/f?p=551361)
 
-[Protótipo - Oracle Apex (Descontinuado)](https://apex.oracle.com/pls/apex/f?p=551361)
+[Trello - Atividades do Projeto (Desecontinuado)  Estamos usado Github como quadro de trabalho) ](https://trello.com/novoeleitor)
 
-
-# Fale Conosco
-* [Homepage](https://projetonovoeleitor.com.br) - Homepage do Projeto
-* [Facebook](https://www.facebook.com/operacaopoliticasupervisionada) - Pagina no Facebook
-* [Blog](http://luciobig.com.br) - Blog do Lúcio
-* luciobig@ops.net.br - Contato principal
-* suporte@ops.net.br - Contato técnico
-
-
-##### Iniciativa
+# Fale com a OPS
 
 ![Operação Política Supervisionada](https://github.com/ops-org/operacao-politica-supervisionada/blob/master/OPS/Content/images/logo_grande.png?raw=true)
-* [http://ops.net.br](http://ops.net.br)
+
+* [Homepage do Projeto Novo Eleitor](https://projetonovoeleitor.com.br)
+* [OPS no Facebook](https://www.facebook.com/operacaopoliticasupervisionada)
+* [Blog do Lúcio Big](http://luciobig.com.br)
+* Contato luciobig@ops.net.br 
+
+
