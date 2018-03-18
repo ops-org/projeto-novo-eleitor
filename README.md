@@ -15,15 +15,15 @@ Nossa proposta baseia-se em dois pilares:
 A **Operação Política Supervisionada** conta com a ajuda de seus colaboradores e/ou voluntários, espalhados pelo Brasil. Qualquer pessoa pode contribuir não só com a equipe de desenvolvimento, mas também em atividades de diagramação/designer, revisores, pesquisadores, advogados, divulgadores, ações de promoção e divulgação desta iniciativa, dentre outros que possam colaborar com os objetivos do projeto.
 
 # Como contribuir?
-Primeiro é necessário possuir uma conta (gratuita) no Github que é o serviço que "hospeda" os arquivos do Projeto Novo Eleitor.
-- A partir de uma conta no Github você já pode  participar com comentários e sugestões em nossa lista de demandas e assuntos do projeto. Dê uma olhada nestes itens que também são chamados de [Issues](https://github.com/ops-org/projeto-novo-eleitor/issues) , veja também [os quadros de atividades](#Quadros de atividades do projeto).
+Primeiro é necessário possuir uma conta (gratuita) no Github que é o serviço que "hospeda" os arquivos Projeto Novo Eleitor.
+- A partir de uma conta no Github você já pode  participar com comentários e sugestões em nossa lista de demandas e assuntos do projeto. Dê uma olhada nestes itens que também são chamados de [Issues](https://github.com/ops-org/projeto-novo-eleitor/issues) , veja também [os quadros de atividades](# Quadros de atividades do projeto).
 
-- Já está familiarizado com o github?  Possui habilidades em desenvolvimento, diagramação, banco de dados , revisão textual? Solicite Faça uma solicitação para o *Lúcio BIG* através da [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou via e-mail luciobig@ops.net.br
+- Já está familiarizado com atividades no github? Possui habilidades em desenvolvimento, diagramação, operações com banco de dados, revisões textuais e em dados? Solicite para participar como membro do projeto ao *Lúcio BIG* através da [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou via e-mail luciobig@ops.net.br
 
 ## Veja as demandas "Issues" do projeto e particie com comentários e sujestões
 [Demandas e Assuntos do Projeto]
 
-#  Quadros de atividades do projeto
+# Quadros de atividades do projeto
 [Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4)
 
 [Arte e Design](https://github.com/ops-org/projeto-novo-eleitor/projects/1)
