@@ -1,3 +1,4 @@
+[Ir para o quadro de atividades](https://github.com/ops-org/projeto-novo-eleitor/projects/6)
 # Instruções
 
 Arquivo **OPS-PNE.accdb** é o banco de dados em Microsoft Access 2016 ora escolhido como solução temporária/intermediária adotada para dar rápida resposta (por falta de voluntários e demais recursos) no desenvolvimento um protótipo operacional (modelagem tabelas/telas de cadastros/relatórios automáticos) para testes conceituais do modelo de dados idealizado para comparações políticas.
