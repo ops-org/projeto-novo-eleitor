@@ -20,17 +20,17 @@ Primeiro é necessário possuir uma conta (gratuita) no Github que é o serviço
 
 - Já está familiarizado com atividades no github? Possui habilidades em desenvolvimento, diagramação, operações com banco de dados, revisões textuais e análise de dados? Solicite sua participação como membro do projeto para o *Lúcio BIG* através da [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou via e-mail luciobig@ops.net.br
 
-# Quadros de atividades do projeto
-[Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4)
-
-[Arte e Design](https://github.com/ops-org/projeto-novo-eleitor/projects/1)
-
-[Desenv Banco Dados Access](https://github.com/ops-org/projeto-novo-eleitor/projects/6)
-
-[Desenv Site ASP](https://github.com/ops-org/projeto-novo-eleitor/projects/7)
-
-[Planejamento do Sistema](https://github.com/ops-org/projeto-novo-eleitor/projects/3)
-
+# Quadros de atividades e pastas do projeto
+Quadro | Pasta/Diretório
+------ | -------
+[Arte e Design](https://github.com/ops-org/projeto-novo-eleitor/projects/1) | [arte-e-design](https://github.com/ops-org/projeto-novo-eleitor/tree/master/arte-e-design)
+[Desenvolvimento Site ASP](https://github.com/ops-org/projeto-novo-eleitor/projects/7) | [desenv-site-asp](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-site-asp)
+[Desenvolvimento Banco Dados MySQL](https://github.com/ops-org/projeto-novo-eleitor/projects/6) | [desenv-db-mysql](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-db-mysql)
+[Desenvolvimento App Android] https://github.com/ops-org/projeto-novo-eleitor/projects/10 | [desenv-app-android](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-app-android) 
+[Desenvolvimento App iOS] https://github.com/ops-org/projeto-novo-eleitor/projects/11 | [desenv-app-ios](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-app-ios) 
+[Desenvolvimento Banco Dados Access](https://github.com/ops-org/projeto-novo-eleitor/projects/6) | [desenv-db-access](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-db-access)
+[Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4) | [adm-dados](https://github.com/ops-org/projeto-novo-eleitor/tree/master/adm-dados)
+[Planejamento do Sistema](https://github.com/ops-org/projeto-novo-eleitor/projects/3) | [plano-sistema](https://github.com/ops-org/projeto-novo-eleitor/tree/master/plano-sistema) 
 
 ## Orientações para os desenvolvedores
 Qualquer pessoa pode contribuir com os projetos da OPS, todos eles são públicos e de código aberto. Se você deseja ajudar, siga o processo descrito no link abaixo.
