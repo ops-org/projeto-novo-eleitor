@@ -29,7 +29,7 @@ Quadro | Pasta/Diretório
 ------ | -------
 [Arte e Design](https://github.com/ops-org/projeto-novo-eleitor/projects/1) | [arte-e-design](https://github.com/ops-org/projeto-novo-eleitor/tree/master/arte-e-design)
 [Desenvolvimento Site ASP](https://github.com/ops-org/projeto-novo-eleitor/projects/7) | [desenv-site-asp](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-site-asp)
-[Desenvolvimento Banco Dados MySQL](https://github.com/ops-org/projeto-novo-eleitor/projects/6) | [desenv-db-mysql](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-db-mysql)
+[Desenvolvimento Banco Dados MySQL](https://github.com/ops-org/projeto-novo-eleitor/projects/12) | [desenv-db-mysql](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-db-mysql)
 [Desenvolvimento App Android](https://github.com/ops-org/projeto-novo-eleitor/projects/10) | [desenv-app-android](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-app-android) 
 [Desenvolvimento App iOS](https://github.com/ops-org/projeto-novo-eleitor/projects/11) | [desenv-app-ios](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-app-ios) 
 [Desenvolvimento Banco Dados Access](https://github.com/ops-org/projeto-novo-eleitor/projects/6) | [desenv-db-access](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-db-access)
