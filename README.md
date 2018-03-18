@@ -1,4 +1,4 @@
-﻿![PNE](https://projetonovoeleitor.files.wordpress.com/2018/01/cropped-logo-novo-eleitor2.png)
+![PNE](projeto-novo-eleitor/arte-e-design/imagens/pne/pne-logo-168x168.png)
 ## Projeto Novo Eleitor
 
 ![APATCHE](https://img.shields.io/crates/l/rustc-serialize.svg)
