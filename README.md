@@ -1,7 +1,7 @@
-﻿![PNE](https://projetonovoeleitor.files.wordpress.com/2018/01/cropped-logo-novo-eleitor2.png)
+![PNE](https://projetonovoeleitor.files.wordpress.com/2018/01/cropped-logo-novo-eleitor2.png)
 ## Projeto Novo Eleitor
 
-![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg)
+![APATCHE](https://img.shields.io/crates/l/rustc-serialize.svg)
 ![ASP](https://img.shields.io/badge/language-ASP.MVC-green.svg)
 ![MySQL](https://img.shields.io/badge/DB-MySQL-lightgrey.svg)
 
@@ -14,16 +14,17 @@ Nossa proposta baseia-se em dois pilares:
 # Quem pode contribuir?
 A **Operação Política Supervisionada** conta com a ajuda de seus colaboradores e/ou voluntários, espalhados pelo Brasil. Qualquer pessoa pode contribuir não só com a equipe de desenvolvimento, mas também em atividades de diagramação/designer, revisores, pesquisadores, advogados, divulgadores, ações de promoção e divulgação desta iniciativa, dentre outros que possam colaborar com os objetivos do projeto.
 
-Visite os quadros de atividades das equipes e veja onde pode ajudar.
-Solicite o ingresso na equipe enviando seu contato para os membros do grupo ou procurar o próprio *Lúcio BIG* através da sua [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou do [site do Lúcio big](http://www.luciobig.com.br/). 
-
 # Como contribuir?
-Utilize Github Desktop (Windows/Mac) para baixar "clonar" o projeto novo eleitor  em computador, faça suas contribuições e as envie pela forma de  
-[texto/passos em elaboração]
+As colaborações Sua colaboração pode ser Há várias formas de colaborar, é necessário possuir uma conta no Github (é gratúito):
+- Participe com idéias e sugestões, comentando ou sugerindo demandas do projeto, que são as **["Issues"]** (https://github.com/ops-org/projeto-novo-eleitor/issues)
 
+- Participar noParSolicite o ingresso na equipe enviando seu contato para o *Lúcio BIG* através da [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou via e-mail luciobig@ops.net.br
 
-## Veja o que há para fazer nos quadros de atividades do projeto
-[Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4){:target="_blank"}
+## Veja as demandas "Issues" do projeto e particie com comentários e sujestões
+[Demandas e Assuntos do Projeto]
+
+## Participe dos quadros de atividades e veja no que poderia contribuir com o projeto
+[Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4)
 
 [Arte e Design](https://github.com/ops-org/projeto-novo-eleitor/projects/1)
 
@@ -35,13 +36,11 @@ Utilize Github Desktop (Windows/Mac) para baixar "clonar" o projeto novo eleitor
 
 
 ## Orientações para os desenvolvedores
-
 Qualquer pessoa pode contribuir com os projetos da OPS, todos eles são públicos e de código aberto. Se você deseja ajudar, siga o processo descrito no link abaixo.
 
 https://github.com/ops-org/ops-comite/blob/master/CONTRIBUICAO.md
 
 **Equipes e estruturas de pastas do projeto**
-
 https://github.com/ops-org/projeto-novo-eleitor/blob/master/Estrutura-de-Pastas.md
 
 
