@@ -12,17 +12,17 @@ Nossa proposta baseia-se em dois pilares:
 2) Elaboração de um sistema informatizado integrado e interativo, de alcance nacional, como ferramenta auxiliar para que os eleitores possam comparar e compartilhar os perfis de candidatos e de forma rápida e descomplicada, a fim de formarem sua própria opinião política, tanto para assuntos municipais, estaduais, federais e nacionais. Informações estas baseadas na coleta de dados oficiais sobre atuação pública de cada parlamentar e dos partidos políticos nos quais pertencem, como por exemplo votações de interesse nacional, estadual, municipal e demais históricos relevantes sobre suas realizações políticas.
 
 # Quem pode contribuir?
-A **Operação Política Supervisionada** conta com a ajuda de seus colaboradores e/ou voluntários, espalhados pelo Brasil. Qualquer pessoa pode contribuir não só com a equipe de desenvolvimento, mas também em atividades de diagramação/designer, revisores, pesquisadores, advogados, divulgadores, ações de promoção e divulgação desta iniciativa, dentre outros que possam colaborar com os objetivos do projeto.
-
-Qualquer pessoa pode contribuir com os projetos da OPS, todos eles são públicos e de código aberto. Se você deseja ajudar, siga o processo descrito no link abaixo.
-https://github.com/ops-org/ops-comite/blob/master/CONTRIBUICAO.md
-
+Qualquer pessoa pode contribuir com os projetos da OPS, todos eles são públicos e de código aberto, a **Operação Política Supervisionada** conta com a ajuda de seus colaboradores e/ou voluntários, espalhados pelo Brasil. 
+O projeto possui algumas áreas que você pode contribuir não só com no desenvolvimento, mas também em atividades de designer/diagramação, revisão textual, pesquisas políticas, ações de promoção e divulgação desta iniciativa, dentre outros que possam colaborar com os objetivos do projeto.
 
 # Como contribuir?
 Primeiro é necessário possuir uma conta (gratuita) no Github que é o serviço que "hospeda" os arquivos Projeto Novo Eleitor.
 - A partir de uma conta no Github você já pode  participar com comentários e sugestões em nossa lista de demandas e assuntos do projeto. Dê uma olhada nestes itens que também são chamados de [Issues](https://github.com/ops-org/projeto-novo-eleitor/issues) , veja também [os quadros de atividades](#quadros-de-atividades-e-pastas-do-projeto)
 
 - Já está familiarizado com atividades no github? Possui habilidades em desenvolvimento, diagramação, operações com banco de dados, revisões textuais e análise de dados? Solicite sua participação como membro do projeto para o *Lúcio BIG* através da [página no facebook](https://www.facebook.com/groups/operacaopoliticasupervisionada/) ou via e-mail luciobig@ops.net.br
+Veja os procedimentos no link abaixo.
+https://github.com/ops-org/ops-comite/blob/master/CONTRIBUICAO.md
+
 
 # Quadros de atividades e pastas do projeto
 Quadro | Pasta/Diretório
