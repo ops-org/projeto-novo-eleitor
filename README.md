@@ -25,7 +25,7 @@ https://github.com/ops-org/ops-comite/blob/master/CONTRIBUICAO.md
 
 
 # Quadros de atividades e pastas do projeto
-Quadro de Atividades | Pasta / Diretório
+Quadros de Atividades | Pasta / Diretório
 ------ | -------
 [Arte e Design](https://github.com/ops-org/projeto-novo-eleitor/projects/1) | [arte-e-design](https://github.com/ops-org/projeto-novo-eleitor/tree/master/arte-e-design)
 [Desenvolvimento Site ASP](https://github.com/ops-org/projeto-novo-eleitor/projects/7) | [desenv-site-asp](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-site-asp)
