@@ -1,8 +1,13 @@
-# Instruções
+[Ir para o quadro de atividades](https://github.com/ops-org/projeto-novo-eleitor/projects/1)
 
 ## Arquivos
-**mer-ops-pne.mwb** Arquivo da aplicações **(MySQL Workbench)** contendo o projeto com as definiçoes do modelo de dados
 
+Arquivo | Descrição
+------ | -------
+**mer-ops-pne.mwb** | Arquivo no formato **(MySQL Workbench)** contendo o projeto com todas as definiçoes e diagramas do modelo de dados
+
+
+https://github.com/ops-org/projeto-novo-eleitor/projects/4
 
 # Softwares e ferramentas utilizados 
 ## Computador com Windows - 32bits
