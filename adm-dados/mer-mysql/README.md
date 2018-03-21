@@ -1,10 +1,10 @@
-# (Instruções) Softwares e ferramentas utilizados 
+# Instruções
 
 ## Arquivos
 **mer-ops-pne.mwb** Arquivo da aplicações **(MySQL Workbench)** contendo o projeto com as definiçoes do modelo de dados
 
 
-
+# Softwares e ferramentas utilizados 
 ## Computador com Windows - 32bits
 Setup (mysql-installer-web-community-8.0.3.0-rc.msi)
 
