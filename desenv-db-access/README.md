@@ -10,11 +10,11 @@ R$ 25 por mês) caso pretenda colaborar com o desenvolvimento desta solução
 
 ## Surgiu a necessidade de separar as tabelas dos formulários e algoritimos (demanda #23)
 
-Antes de clonar este projeto para seu computador crie o seguinte diretório local **C:\DATA\**
+Antes de clonar este projeto para seu computador crie o seguinte diretório local **C:\DATA**
 
 Diretório para correta execução do banco de dados, em virtude das tabelas vinculadas pelo caminho completo entre os arquivos .accdb deve ser:
+
 C:\DATA\projeto-novo-eleitor\desenv-db-access
 
-
-**OPS-PNE.accdb**      > Interfaces / Formulários    << Use o sistema por este banco de dados  
+**OPS-PNE.accdb**      > Interfaces / Formulários    << Dentro deste diretório use este banco de dados  
 **OPS-PNE-Data.accdb** > Banco de Dados
