@@ -35,6 +35,8 @@ Quadros de Atividades | Pasta / Diretório
 [Desenvolvimento Banco Dados Access](https://github.com/ops-org/projeto-novo-eleitor/projects/6) | [desenv-db-access](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-db-access)
 [Administração de dados](https://github.com/ops-org/projeto-novo-eleitor/projects/4) | [adm-dados](https://github.com/ops-org/projeto-novo-eleitor/tree/master/adm-dados)
 [Planejamento do Sistema](https://github.com/ops-org/projeto-novo-eleitor/projects/3) | [plano-sistema](https://github.com/ops-org/projeto-novo-eleitor/tree/master/plano-sistema) 
+[Desenvolvimento Blogger](https://github.com/ops-org/projeto-novo-eleitor/projects/13) | [desenv-blogger](https://github.com/ops-org/projeto-novo-eleitor/tree/master/desenv-blogger) 
+
 
 # Canais do Projeto
 
